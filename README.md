@@ -1,41 +1,35 @@
-# AZ 900 - Resumo dos Estudos 
- ![Study ](https://github.com/tbarcelar/AZ-900---Resumo-dos-Estudos-/blob/main/study.jpg)
+# AZ 900 - Resumo dos Estudos    <img src="https://github.com/tbarcelar/Resumo-AZ900/blob/main/cloud.jpg" width="200">
  
 ## Porque usar a nuvem
  
-... Por que a computação em nuvem é normalmente mais barata de usar?
-A computação em nuvem é a entrega de serviços de computação pela Internet usando um preços pré-pagosmodelo. Normalmente, você paga apenas pelos serviços de nuvem que usa, o que ajuda a reduzir seus custos operacionais, administrar sua infraestrutura com mais eficiência e escalar conforme suas necessidades de negócios mudam. Colocando de outra forma, a computação em nuvem é uma maneira de alugar poder de computação e armazenamento do datacenter de outra pessoa. Você pode tratar os recursos de nuvem como faria com seus recursos em seu próprio datacenter. Quando terminar de usá-los, você os devolve. Você é cobrado apenas pelo que usar.
-
+A computação em nuvem é a entrega de serviços de computação pela Internet usando um preços pré-pagosmodelo.  
+Normalmente, você paga apenas pelos serviços de nuvem que usa, o que ajuda a reduzir seus custos operacionais, administrar sua infraestrutura com mais eficiência e escalar conforme suas necessidades de negócios mudam.  
 Em vez de manter CPUs e armazenamento em seu datacenter, você os aluga pelo tempo de que precisa. O provedor de nuvem se encarrega de manter a infraestrutura subjacente para você. Embora essa abordagem seja ótima, o valor real da nuvem é que ela permite que você resolva rapidamente seus desafios de negócios mais difíceis e leve soluções de ponta para seus usuários.
+
+***
+
  
+### Por que  mudar para a nuvem 
  
-## Por que devo mudar para a nuvem 
- 
 
-A nuvem ajuda você a se mover mais rápido e a inovar de maneiras que antes eram quase impossíveis.
+A nuvem ajuda fornecer e atualizar o ambiente mais rápido, oferecendo beneficios tais como:  
 
-Em nosso mundo digital em constante mudança, surgem duas tendências:
-
-As equipes estão entregando novos recursos aos usuários em velocidades recordes.
-
-Os usuários finais esperam uma experiência cada vez mais rica e envolvente com seus dispositivos e software.
-
-Os lançamentos de software já foram programados em meses ou até anos. Hoje, as equipes estão lançando recursos em lotes menores. Os lançamentos agora costumam ser programados em dias ou semanas. Algumas equipes até fornecem atualizações de software continuamente - às vezes com vários lançamentos no mesmo dia.
-
-Pense em todas as maneiras como você interage com dispositivos que não era possível fazer apenas alguns anos atrás. Muitos dispositivos podem reconhecer seu rosto e responder a comandos de voz. A realidade aumentada muda a maneira como você interage com o mundo físico. Os eletrodomésticos estão até começando a agir com inteligência. Essas tecnologias são apenas alguns exemplos, muitos dos quais são movidos pela nuvem.
-
-Para potencializar seus serviços e fornecer experiências inovadoras e inovadoras ao usuário mais rapidamente, a nuvem fornece acesso sob demanda a:
-
-Um pool quase ilimitado de componentes brutos de computação, armazenamento e rede.
-
-Reconhecimento de voz e outros serviços cognitivos que ajudam a fazer seu aplicativo se destacar da multidão.
-
-Serviços de análise que permitem que você compreenda os dados de telemetria que retornam de seu software e dispositivos.
+[] Um pool quase ilimitado de componentes brutos de computação, armazenamento e rede.  
+[] Reconhecimento de voz e outros serviços cognitivos que ajudam a fazer seu aplicativo se destacar da multidão.  
+[] Serviços de análise que permitem que você compreenda os dados de telemetria que retornam de seu software e dispositivos.  
+[] Alta disponibilidade - dependendo do acordo de nível de serviço (SLA) que você escolher, seus aplicativos baseados em nuvem podem fornecer uma experiência de usuário contínua, sem tempo de inatividade aparente, mesmo quando as coisas dão errado  
+[] Escalabilidade - os aplicativos na nuvem podem ser escalados de duas maneiras  
+[] Verticalmente - a capacidade de computação pode ser aumentada adicionando RAM ou CPUs adicionais a uma máquina virtual  
+[] Horizontalmente - a capacidade de computação pode ser aumentada adicionando instâncias de um recurso, como adicionar máquinas virtuais adicionais à sua configuração  
+[] Elasticidade - os aplicativos baseados em nuvem podem ser configurados para aproveitar as vantagens do escalonamento automático, para que seus aplicativos sempre tenham os recursos de que precisam  
+[] Agilidade - os recursos baseados na nuvem podem ser implantados e configurados rapidamente conforme os requisitos do seu aplicativo mudam  
+[]Distribuição geográfica - aplicativos e dados podem ser implantados em datacenters regionais em todo o mundo, garantindo assim que seus clientes sempre tenham o melhor desempenho em sua região  
+[]Recuperação de desastre - ao aproveitar as vantagens dos serviços de backup baseados em nuvem, replicação de dados e distribuição geográfica, você pode implantar seus aplicativos com a confiança que vem por saber que seus dados estão seguros no caso de ocorrer um desastre  
  
 
  
 ## Link
-  - Repository: https://github.com/tbarcelar/AZ-900---Resumo-dos-Estudos-
+  - Repository:https://docs.microsoft.com/pt-br/learn/certifications/exams/az-900
     
 
  
