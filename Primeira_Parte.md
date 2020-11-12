@@ -116,6 +116,7 @@ Outro cenário em que usaria grupos de gerenciamento é fornecer acesso de usuá
 ## Link
   - Repository:https://docs.microsoft.com/pt-br/learn/certifications/exams/az-900
   - Dicionário: 
+  - Teste do resumo: https://docs.google.com/forms/d/1XWfHDdFlfQhnN_tHMOlbbOjIJQDgiSS_7hSjX8ZdTew/edit
     
 
  
