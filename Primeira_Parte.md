@@ -1,5 +1,5 @@
 # AZ 900 - Resumo dos Estudos  
-<img src="https://github.com/tbarcelar/Resumo-AZ900/blob/main/cloud.jpg" width="1200" height="200">
+<img src="https://github.com/tbarcelar/Resumo-AZ900/blob/main/cloud.jpg" width="1200" height="250">
  
 ## Porque usar a nuvem
  
@@ -9,7 +9,7 @@ Em vez de manter CPUs e armazenamento em datacenter local, pode alugar um datace
 ***
 
 ## Quais são os beneficios de migrar para nuvem  
-> [!div class="checklist"]
+
 > *  Um pool quase ilimitado de componentes brutos de computação, armazenamento e rede
 > * Reconhecimento de voz e outros serviços cognitivos que ajudam a fazer seu aplicativo se destacar da multidão
 > * Serviços de análise que permitem que você compreenda os dados de telemetria que retornam de seu software e dispositivos.  
@@ -115,7 +115,7 @@ Outro cenário em que usaria grupos de gerenciamento é fornecer acesso de usuá
  
 ## Link
   - Repository:https://docs.microsoft.com/pt-br/learn/certifications/exams/az-900
-  - Dicionário: 
+  - Dicionário: https://github.com/tbarcelar/Resumo-AZ900/blob/main/dicionario_dos_servicos.docx
   - Teste do resumo: https://docs.google.com/forms/d/1XWfHDdFlfQhnN_tHMOlbbOjIJQDgiSS_7hSjX8ZdTew/edit
     
 
