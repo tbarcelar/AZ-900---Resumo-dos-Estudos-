@@ -4,31 +4,22 @@
 # Os tipos de banco de Dados que é possivel usar no Azure
 
 > *  Azure Cosmos DB
-
 É o serviço de banco de dados de vários modelos distribuído globalmente da Microsoft. Com o clique de um botão, o Cosmos DB permite que dimensione de forma elástica e independente a taxa de transferência e o armazenamento em qualquer número de regiões do Azure em todo o mundo. Oferece suporte a dados sem esquema, o que permite criar aplicativos altamente responsivos e Always On para oferecer suporte a dados em constante mudança. 
 
 É uma ótima escolha em uma variedade de cenários porque é flexível. No nível mais baixo, o Azure Cosmos DB armazena dados no formato atom-record-sequence (ARS). Os dados são então abstraídos e projetados como uma API. Suas opções incluem SQL, MongoDB, Cassandra, Tables e Gremlin. Esse nível de flexibilidade significa que, conforme você migra os bancos de dados da sua empresa para o Azure Cosmos DB, seus desenvolvedores podem ficar com a API onde se sentirem mais confortáveis.
 
-## Banco de Dados SQL do Azure
-
-> * É um banco de dados relacional baseado na versão estável mais recente do mecanismo de banco de dados do Microsoft SQL Server é um banco de dados de alto desempenho, confiável, totalmente gerenciado e seguro. Pode usá-lo para construir aplicativos e sites baseados em dados na linguagem de programação de sua escolha, sem a necessidade de gerenciar a infraestrutura. É um mecanismo de banco de dados de plataforma como serviço (PaaS) totalmente gerenciado que lida com a maioria das funções de gerenciamento de banco de dados, como atualização, patch, backups e monitoramento sem envolvimento do usuário.
-
-
-##  Banco de Dados do Azure para MySQL
-
-> * É um serviço de banco de dados relacional na nuvem da Microsoft, o contrato de nível de serviço (SLA) de disponibilidade de 99,99% do Azure, desenvolvido por uma rede global de datacenters gerenciados pela Microsoft, ajuda a manter seu aplicativo funcionando 24 horas por dia, 7 dias por semana, pode usar a restauração point-in-time para recuperar um servidor para um estado anterior, de até 35 dias.
+> * Banco de Dados SQL do Azure
+ É um banco de dados relacional baseado na versão estável mais recente do mecanismo de banco de dados do Microsoft SQL Server é um banco de dados de alto desempenho, confiável, totalmente gerenciado e seguro. Pode usá-lo para construir aplicativos e sites baseados em dados na linguagem de programação de sua escolha, sem a necessidade de gerenciar a infraestrutura. É um mecanismo de banco de dados de plataforma como serviço (PaaS) totalmente gerenciado que lida com a maioria das funções de gerenciamento de banco de dados, como atualização, patch, backups e monitoramento sem envolvimento do usuário.
 
 
-Esses recursos quase não exigem administração e todos são fornecidos sem custo adicional. Eles permitem que se concentre no desenvolvimento rápido de aplicativos e acelere seu tempo de colocação no mercado, em vez de alocar tempo e recursos preciosos para gerenciar máquinas virtuais e infraestrutura. Além disso, pode migrar bancos de dados MySQL existentes com tempo de inatividade mínimo usando o Serviço de Migração de Banco de Dados do Azure. Depois de concluir a migração, pode continuar a desenvolver aplicativo com as ferramentas e a plataforma de código aberto de sua escolha para entregar com a velocidade e eficiência que seus negócios exigem, tudo sem ter que aprender novas habilidades.
+> *  Banco de Dados do Azure para MySQL
+- É um serviço de banco de dados relacional na nuvem da Microsoft, o contrato de nível de serviço (SLA) de disponibilidade de 99,99% do Azure, desenvolvido por uma rede global de datacenters gerenciados pela Microsoft, ajuda a manter seu aplicativo funcionando 24 horas por dia, 7 dias por semana, pode usar a restauração point-in-time para recuperar um servidor para um estado anterior, de até 35 dias.
+- Esses recursos quase não exigem administração e todos são fornecidos sem custo adicional. Eles permitem que se concentre no desenvolvimento rápido de aplicativos e acelere seu tempo de colocação no mercado, em vez de alocar tempo e recursos preciosos para gerenciar máquinas virtuais e infraestrutura. Além disso, pode migrar bancos de dados MySQL existentes com tempo de inatividade mínimo usando o Serviço de Migração de Banco de Dados do Azure. Depois de concluir a migração, pode continuar a desenvolver aplicativo com as ferramentas e a plataforma de código aberto de sua escolha para entregar com a velocidade e eficiência que seus negócios exigem, tudo sem ter que aprender novas habilidades.
  
 
 
-
-## PostgreSQL
-
-
-> * É  um serviço de banco de dados relacional na nuvem da Microsoft. O software do servidor é baseado na versão da comunidade do mecanismo de banco de dados PostgreSQL de código aberto. Sua familiaridade com ferramentas e experiência com PostgreSQL é aplicável ao usar o Banco de Dados Azure para PostgreSQL, oferece os seguintes benefícios
-
+> * PostgreSQL
+-  É  um serviço de banco de dados relacional na nuvem da Microsoft. O software do servidor é baseado na versão da comunidade do mecanismo de banco de dados PostgreSQL de código aberto. Sua familiaridade com ferramentas e experiência com PostgreSQL é aplicável ao usar o Banco de Dados Azure para PostgreSQL, oferece os seguintes benefícios
 - Alta disponibilidade 
 - Preços simples e flexíveis. 
 - Aumente ou diminua conforme necessário em segundos.
@@ -36,20 +27,19 @@ Esses recursos quase não exigem administração e todos são fornecidos sem cus
 - Segurança e conformidade de nível empresarial para proteger dados confidenciais em repouso e em movimento que cobre a criptografia de dados em disco e criptografia SSL entre a comunicação do cliente e do servidor.
 
 
-# Big data e análises
-
+> * Big data e análises
 - Tecnologias de cluster de código aberto foram desenvolvidas, ao longo do tempo, para tentar lidar com grandes conjuntos de dados. O Microsoft Azure oferece suporte a uma ampla variedade de tecnologias e serviços para fornecer soluções analíticas e de big data. Alguns dos tipos de big data e serviço analítico mais comuns no Azure são Azure Synapse Analytics, HDInsight, Databricks e Data Lake Analytics.
 
-> * Azure Synapse Analytics (anteriormente Azure SQL Data Warehouse) 
+-  Azure Synapse Analytics (anteriormente Azure SQL Data Warehouse) 
 -  O Azure Synapse oferece a liberdade de consultar dados em seus termos, usando recursos sem servidor ou provisionados em escala. O Azure Synapse reúne esses dois mundos com uma experiência unificada para ingerir, preparar, gerenciar e fornecer dados para necessidades imediatas de BI e aprendizado de máquina. 
 
-> * Azure HDInsight 
+-  Azure HDInsight 
  - É  um serviço analítico de código aberto totalmente gerenciado para empresas. É um serviço em nuvem que torna mais fácil, rápido e econômico processar grandes quantidades de dados.  crie tipos de cluster, como Apache Spark, Apache Hadoop, Apache Kafka, Apache HBase, Tempestade Apache, Serviços de aprendizado de máquina. O HDInsight também oferece suporte a uma ampla variedade de cenários, como extração, transformação e carregamento (ETL); armazenamento de dados; aprendizado de máquina; e IoT.
 
-> * Azure Databricks 
+- Azure Databricks 
 - ajuda a desbloquear insights de todos os seus dados e construir soluções de inteligência artificial (IA). Pode configurar ambiente Apache Spark ™ em minutos, depois escalonar automaticamente e colaborar em projetos compartilhados em um espaço de trabalho interativo. Azure Databricks oferece suporte a Python, Scala, R, Java e SQL, bem como bibliotecas e estruturas de ciência de dados, incluindo TensorFlow, PyTorch e scikit-learn.
 
-> * Azure Data Lake Analytics
+-  Azure Data Lake Analytics
 - É  um serviço de trabalho de análise sob demanda que simplifica o big data. Em vez de implantar, configurar e ajustar o hardware, escreve consultas para transformar seus dados e extrair percepções valiosas. O serviço de análise pode lidar com trabalhos de qualquer escala instantaneamente, definindo o dial para a quantidade de energia de que você precisa, só paga pelo seu trabalho quando ele está em execução, o que o torna mais econômico.
 
 ***
@@ -77,10 +67,10 @@ Embora as máquinas virtuais sejam uma excelente forma de reduzir custos em comp
 
 Os contêineres são um ambiente de virtualização e, assim como a execução de várias máquinas virtuais em um único host físico, pode executar vários contêineres em um único host físico ou virtual. No entanto, ao contrário das máquinas virtuais, não gerencia o sistema operacional de um contêiner. Enquanto as máquinas virtuais parecem ser uma instância de um sistema operacional ao qual você pode se conectar e gerenciar, os contêineres são leves e foram projetados para serem criados, dimensionados e interrompidos dinamicamente. Embora seja possível criar e implantar máquinas virtuais à medida que aumenta a demanda do aplicativo, os contêineres são projetados para permitir que responda às mudanças sob demanda e reinicie rapidamente em caso de falha ou interrupção do hardware. Um dos motores de contêiner mais populares é o Docker, que tem suporte do Microsoft Azure.Existem duas maneiras de gerenciar os contêineres baseados em Docker e Microsoft no Azure:Instâncias de contêiner do Azure e Serviço Azure Kubernetes.
 
-> * Instâncias de contêiner do Azure (ACI)
+-  Instâncias de contêiner do Azure (ACI)
 Instâncias de contêiner do Azure oferece a maneira mais rápida e simples de executar um contêiner no Azure sem ter que gerenciar nenhuma máquina virtual ou adotar qualquer serviço adicional. É uma oferta de PaaS que permite fazer upload de seus contêineres, que serão executados 
 
-> * Serviço do Azure Governorate (AKS)
+-  Serviço do Azure Governorate (AKS)
 A tarefa de automatizar, gerenciar e interagir com um grande número de contêineres é conhecida como orquestração. Serviço do Azure Governorate (AKS) é um serviço de orquestração completo para contêineres com arquiteturas distribuídas e grandes volumes de contêineres. Orquestração é a tarefa de automatizar e gerenciar um grande número de contêineres e como eles interagem.
 
 *** 

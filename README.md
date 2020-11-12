@@ -7,3 +7,4 @@
 # Segue Links das paginas
   - Repository:https://docs.microsoft.com/pt-br/learn/certifications/exams/az-900
   - Primeira pagina : https://github.com/tbarcelar/Resumo-AZ900/blob/main/Primeira_Parte.md
+  - Segunda Página : https://github.com/tbarcelar/Resumo-AZ900/blob/main/Segunda_Parte.md
