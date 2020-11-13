@@ -129,6 +129,3 @@ O armazenamento de Blob do Azure permite que transmita grandes arquivos de víde
 
 *** 
 
-
-Continua na próxima página
-O que é rede virtual do Azure
