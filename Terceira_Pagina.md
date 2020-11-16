@@ -24,4 +24,4 @@ serve para  ambientes em que precisa de mais largura de banda e níveis ainda ma
  ## Link
   - Repository:https://docs.microsoft.com/pt-br/learn/certifications/exams/az-900
   - Dicionário: https://github.com/tbarcelar/Resumo-AZ900/blob/main/dicionario_dos_servicos.docx
-  -  Teste do Resumo P1 e P2 :https://docs.google.com/forms/d/1jyGvla7uYX5ySZtTdu8_sgCxEFe_rB9bth7RwXVhAiw/edit
+  -  Teste do Resumo P1 e P2 : https://docs.google.com/forms/d/1jyGvla7uYX5ySZtTdu8_sgCxEFe_rB9bth7RwXVhAiw/viewform?edit_requested=true
