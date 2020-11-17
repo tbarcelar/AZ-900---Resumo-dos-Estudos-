@@ -21,7 +21,6 @@ Plataforma para fazer previsões. Consiste em ferramentas e serviços que permit
 
 **Serviços Cognitivos Azure**
 fornece modelos de aprendizado de máquina predefinidos que permitem que os aplicativos vejam, ouçam, falem, entendam e até mesmo comecem a raciocinar. Use os Serviços Cognitivos do Azure para resolver problemas gerais, como análise de texto para sentimento emocional ou análise de imagens para reconhecer objetos ou rostos. não precisa de conhecimento especial de machine learning ou ciência de dados para usar esses serviços. Os desenvolvedores acessam os Serviços Cognitivos do Azure por meio de APIs e podem incluir facilmente esses recursos em apenas algumas linhas de código.
-
 - Língua serviços - Permita que seus aplicativos processem linguagem natural com scripts pré-construídos, avalie sentimentos e aprenda a reconhecer o que os usuários desejam.
 - Discursoserviços - Converta fala em texto e texto em fala de som natural. Traduza de um idioma para outro e habilite a verificação e o reconhecimento do locutor.
 - Visão serviços - Adicione recursos de reconhecimento e identificação ao analisar fotos, vídeos e outros conteúdos visuais.
@@ -64,21 +63,27 @@ visão personalizada da integridade dos serviços, regiões e recursos do Azure 
 
 
 **IoT Hub**
-A equipe de liderança sênior da Tailwind Traders decidiu fazer parceria com um fabricante líder de eletrodomésticos para criar uma marca exclusiva de alta tecnologia que promete um contrato de serviço de manutenção preventiva. Esta característica única diferenciaria seus aparelhos em um mercado competitivo e superlotado. Isso também torna os aparelhos lucrativos, já que uma assinatura anual seria necessária. Para construir uma reputação de marca forte, os aparelhos enviarão informações de telemetria para um local centralizado onde podem ser analisadas e a manutenção pode ser programada.
-
-Os dispositivos não requerem controle remoto. Eles estarão apenas enviando seus dados de telemetria para análise e manutenção pró-ativa.
-
+O Hub IoT suporta comunicações do dispositivo para a nuvem e da nuvem para o dispositivo. Ele também oferece suporte a vários padrões de mensagens, como telemetria de dispositivo para nuvem, upload de arquivo de dispositivos e métodos de solicitação de resposta para controlar seus dispositivos da nuvem. Depois que o Hub IoT recebe mensagens de um dispositivo, ele pode rotear essa mensagem para outros serviços do Azure.
+De uma perspectiva de nuvem para dispositivo, o IoT Hub permite "comando e controle", em outras palavras, controle remoto manual ou automatizado de dispositivos conectados para que possa instruir o dispositivo a abrir válvulas, definir temperaturas-alvo, reiniciar dispositivos presos, e assim por diante.
+O monitoramento do IoT Hub ajuda a manter a integridade de sua solução rastreando eventos como criação de dispositivo, falhas de dispositivo e conexões de dispositivo.
 
 **Azure IoT Central**
-fornece um painel que permite às empresas gerenciar dispositivos IoT individualmente e em conjunto, exibir relatórios e configurar notificações de erro por meio de uma GUI. 
+fornece um painel que permite às empresas gerenciar dispositivos IoT individualmente e em conjunto, exibir relatórios e configurar notificações de erro por meio de uma GUI. A IoT Central do Azure é uma IoT global totalmente gerenciada SaaS (software como serviço) que a torna fácil de conectar, monitorar e gerenciar seus ativos de IoT em grande escala. 
+baseia-se no Hub IoT adicionando um painel que permite conectar, monitorar e gerenciar dispositivos IoT. A interface visual do usuário (IU) facilita a conexão rápida de novos dispositivos e observe enquanto eles começam a enviar mensagens de telemetria ou de erro. pode observar o desempenho geral em todos os dispositivos em conjunto e configurar alertas que enviam notificações quando um dispositivo específico precisa de manutenção. Finalmente, pode enviar atualizações de hardware para o dispositivo.
 
  **Azure Sphere**
 fornece uma solução completa para cenários em que a segurança é crítica. 
+cria uma solução de IoT altamente segura de ponta a ponta para clientes que abrange tudo, desde o hardware e sistema operacional no dispositivo até o método seguro de envio de mensagens do dispositivo para o hub de mensagens. Possui recursos de comunicação e segurança integrados para dispositivos conectados à Internet
+Depois que o sistema do Azure Sphere validou a autenticidade do dispositivo e o autenticou, o dispositivo pode interagir com outros serviços do Azure IoT, enviando informações de telemetria e de erro.
 
+**Azure Sentinel**
+ é o SIEM baseado em nuvem da Microsoft. Um SIEM agrega dados de segurança de muitas fontes diferentes para fornecer recursos adicionais para detecção de ameaças e resposta a ameaças.
 
-***
+**Com a Central de Segurança do Azure**, 
+ pode definir uma lista de aplicativos permitidos para garantir que apenas os aplicativos permitidos possam ser executados. A Central de Segurança do Azure também pode detectar e bloquear a instalação de malware em  VMs.
 
-
+**O Azure Key Vault**
+ permite que  armazene seus segredos em um único local central. O Key Vault também torna mais fácil registrar e renovar certificados de autoridades de certificação públicas (CAs).
 
 
 ***

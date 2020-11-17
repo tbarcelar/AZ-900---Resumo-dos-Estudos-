@@ -20,8 +20,21 @@ serve para  ambientes em que precisa de mais largura de banda e níveis ainda ma
 **O peering**
  permite que os recursos em cada rede virtual se comuniquem entre si. Essas redes virtuais podem estar em regiões separadas, permitindo que você crie uma rede global interconectada por meio do Azure.
 
+## Proteção na nuvem
+
+***A proteção DDoS**
+ ajuda a proteger seus recursos do Azure contra ataques DDoS. Um ataque DDoS tenta sobrecarregar e exaurir os recursos de um aplicativo, tornando-o lento ou sem resposta para usuários legítimos.
+plicação
+
+**O Firewall do Azure**
+ permite que você limite o tráfego HTTP / S de saída a uma lista especificada de nomes de domínio totalmente qualificados (FQDNs).
+
+**Uma regra de grupo de segurança de rede**
+ permite filtrar o tráfego de e para recursos por endereço IP de origem e destino, porta e protocolo.
  
+
+
  ## Link
   - Repository:https://docs.microsoft.com/pt-br/learn/certifications/exams/az-900
-  - Dicionário: https://github.com/tbarcelar/Resumo-AZ900/blob/main/dicionario_dos_servicos.docx
-  -  Teste do Resumo P1 e P2 : https://docs.google.com/forms/d/1jyGvla7uYX5ySZtTdu8_sgCxEFe_rB9bth7RwXVhAiw/viewform?edit_requested=true
+  - Veja próxima página: IA + Monitoramento > https://github.com/tbarcelar/Resumo-AZ900/blob/main/Quarta_Parte.md
+  -  Teste do Resumo : https://docs.google.com/forms/d/1jyGvla7uYX5ySZtTdu8_sgCxEFe_rB9bth7RwXVhAiw/viewform?edit_requested=true

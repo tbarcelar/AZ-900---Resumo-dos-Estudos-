@@ -128,5 +128,7 @@ O armazenamento de Blob do Azure permite que transmita grandes arquivos de víde
 
 
 *** 
-
-Veja a 3° página: https://github.com/tbarcelar/Resumo-AZ900/blob/main/Terceira_Pagina.md
+# Link
+  - Repository:https://docs.microsoft.com/pt-br/learn/certifications/exams/az-900
+ -  Próxima página: O que é rede virtual do Azure
+https://github.com/tbarcelar/Resumo-AZ900/blob/main/Terceira_Pagina.md
