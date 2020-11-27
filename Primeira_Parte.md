@@ -87,7 +87,7 @@ Este tipo de assinatura determina como uma conta do Azure é cobrada pelo uso do
   - Repository:https://docs.microsoft.com/pt-br/learn/certifications/exams/az-900
   - Dicionário: https://github.com/tbarcelar/Resumo-AZ900/blob/main/dicionario_dos_servicos.docx
   - Próxima página: https://github.com/tbarcelar/Resumo-AZ900/blob/main/Segunda_Parte.md
-  - Teste do resumo: https://docs.google.com/forms/d/1XWfHDdFlfQhnN_tHMOlbbOjIJQDgiSS_7hSjX8ZdTew/edit
+  - Teste do resumo: https://docs.google.com/forms/d/e/1FAIpQLScCUm4kNuMvukI3ByoZLd4Im0_3tPjliJto8xdjIC-BBDKyyg/viewform
     
 
  
