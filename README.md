@@ -11,4 +11,14 @@
   - Terceira Página : https://github.com/tbarcelar/Resumo-AZ900/blob/main/Terceira_Pagina.md
   - Quarta Página: https://github.com/tbarcelar/Resumo-AZ900/blob/main/Quarta_Parte.md
   
+  # Perguntas e respostas
+  - Em espanhol : https://docs.google.com/forms/d/e/1FAIpQLSfuBGg81L5dcj6tKvYksj26xDypovX5A_qdoqEMlznkkxVvaw/viewform
+  - Em inglês:    https://docs.google.com/forms/d/e/1FAIpQLSc44WhKVf_k59BTJp0T1OUoey2cpQAVMO9jlduLSA3nMoW9sQ/viewform
+  - Portugues: 
+  https://docs.google.com/forms/d/e/1FAIpQLScCUm4kNuMvukI3ByoZLd4Im0_3tPjliJto8xdjIC-BBDKyyg/viewform
+  https://docs.google.com/forms/d/1jyGvla7uYX5ySZtTdu8_sgCxEFe_rB9bth7RwXVhAiw/viewform?edit_requested=true
+  https://docs.google.com/forms/d/e/1FAIpQLSdDUdrENETeOZoy8nXv__kFc7ZL5X5uWHL_E6t8fK1_BgleEQ/viewform
+  https://docs.google.com/forms/d/1ONzFO8K_HfiKf0wO1xFF8Rl5NvwIWqIEazTLmoQN9cs/viewform?e
+   
+  
   
