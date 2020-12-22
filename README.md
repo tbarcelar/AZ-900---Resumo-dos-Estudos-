@@ -12,13 +12,33 @@
   - Quarta Página: https://github.com/tbarcelar/Resumo-AZ900/blob/main/Quarta_Parte.md
   
   # Perguntas e respostas
-  - Em espanhol : https://docs.google.com/forms/d/e/1FAIpQLSfuBGg81L5dcj6tKvYksj26xDypovX5A_qdoqEMlznkkxVvaw/viewform
-  - Em inglês:    https://docs.google.com/forms/d/e/1FAIpQLSc44WhKVf_k59BTJp0T1OUoey2cpQAVMO9jlduLSA3nMoW9sQ/viewform
-  - Portugues: 
-  https://docs.google.com/forms/d/e/1FAIpQLScCUm4kNuMvukI3ByoZLd4Im0_3tPjliJto8xdjIC-BBDKyyg/viewform
-  https://docs.google.com/forms/d/1jyGvla7uYX5ySZtTdu8_sgCxEFe_rB9bth7RwXVhAiw/viewform?edit_requested=true
-  https://docs.google.com/forms/d/e/1FAIpQLSdDUdrENETeOZoy8nXv__kFc7ZL5X5uWHL_E6t8fK1_BgleEQ/viewform
-  https://docs.google.com/forms/d/1ONzFO8K_HfiKf0wO1xFF8Rl5NvwIWqIEazTLmoQN9cs/viewform?e
-   
-  
-  
+    - Conceitos Básicos 
+       https://docs.google.com/forms/d/e/1FAIpQLSc7JLNu808jFrAeRxEhLGDqgMlcyr34QDb2ty9gnUD6iSqFfQ/viewform 
+
+    - Arquitetura do Azure 
+       https://docs.google.com/forms/d/e/1FAIpQLSe17UGLHeiaEsaym5qO2aGlizVcJBtAwM4pPigMcOCKZGzGoA/viewform 
+
+    - Armazenamento
+       https://docs.google.com/forms/d/e/1FAIpQLScXTkZ31c_UTu1iJdPR1ZYgWQLhykdE0EiA-3QqzHcXcQgOag/viewform 
+
+    - Banco de Dados
+       https://docs.google.com/forms/d/e/1FAIpQLSfTeH8ZsfOei-7dpkVlEOFgzMNSQ_qlZuz6E8NFN5-pYcvEXg/viewform 
+
+    - Redes
+       https://docs.google.com/forms/d/e/1FAIpQLScjy1ZfjatoSuMkd9ygfSonTB-neJMMv_4XQJrmKtkQTc2s2Q/viewform 
+
+    - Soluções do Azure 
+        https://docs.google.com/forms/d/e/1FAIpQLScnIi2l5Ze7knB5l52CWVg5G6vA7dqpSnQoeI3_5Y7NKcKr-Q/viewform 
+
+    - Segurança e conformidade 
+       https://docs.google.com/forms/d/e/1FAIpQLSd9Sk-VabFbes20NW2DbCUY3AeZIYd1MbkHn0BR3uUHSKWA3w/viewform 
+
+    - Preços 
+       https://docs.google.com/forms/d/e/1FAIpQLSe5MrkkRFWjtnCU9pU2H-hElz2mLb2MpAJCavckqhBPubOdIA/viewform 
+
+    - Simulado da prova 
+       https://docs.google.com/forms/d/e/1FAIpQLSeTZoS4Aarj-JHgyLibGT7lQEF1hPmePQoXWDfXRH4H5dr5rw/viewform 
+
+ 
+
+ 
