@@ -1,7 +1,9 @@
 # Resumo-AZ900 
 <img src="https://github.com/tbarcelar/Resumo-AZ900/blob/main/cloud.jpg" width="1200" height="300">
 
-> * Simulados para praticar 
+> * Simulados para praticar Az900, bom estudo !
+> * Site com simulados free   https://www.whizlabs.com/learn/course/microsoft-azure-az-900
+> * Site Official:            https://docs.microsoft.com/pt-br/learn/certifications/exams/az-900
 
 
   # Perguntas e respostas
@@ -31,8 +33,7 @@
 
    - Simulado da prova   
        https://docs.google.com/forms/d/e/1FAIpQLSeTZoS4Aarj-JHgyLibGT7lQEF1hPmePQoXWDfXRH4H5dr5rw/viewform 
-       
-       - https://docs.google.com/forms/d/e/1FAIpQLScNeniy-EATU2u_1eDzPt1m1eqkv79sJ2O5g-2wJjhtK6340A/viewform
+       https://docs.google.com/forms/d/e/1FAIpQLScNeniy-EATU2u_1eDzPt1m1eqkv79sJ2O5g-2wJjhtK6340A/viewform
 
  
 
